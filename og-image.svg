@@ -1,0 +1,10 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#0A0A0A"/>
+  <circle cx="980" cy="110" r="220" fill="#0EA5E9" fill-opacity="0.18"/>
+  <circle cx="250" cy="530" r="260" fill="#06B6D4" fill-opacity="0.14"/>
+  <rect x="72" y="72" width="1056" height="486" rx="36" stroke="rgba(255,255,255,0.08)"/>
+  <text x="110" y="205" fill="#E5E5E5" font-family="Inter,Arial,sans-serif" font-size="40" font-weight="600">Marek Žiak</text>
+  <text x="110" y="290" fill="#FFFFFF" font-family="Inter,Arial,sans-serif" font-size="76" font-weight="700">Web Designer &amp; Developer</text>
+  <text x="110" y="360" fill="#67E8F9" font-family="Inter,Arial,sans-serif" font-size="34" font-weight="500">Moderné weby, ktoré premieňajú návštevníkov na klientov.</text>
+  <text x="110" y="455" fill="#A3A3A3" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="400">ziak.dev</text>
+</svg>
