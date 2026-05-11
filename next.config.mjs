@@ -9,14 +9,13 @@ const normalizeBasePath = (value) => {
 
 const basePath = normalizeBasePath(process.env.NEXT_PUBLIC_BASE_PATH);
 
-const nextConfig = {
+cconst nextConfig = {
   output: "export",
-  trailingSlash: true,
   images: {
     unoptimized: true,
   },
-  basePath,
-  assetPrefix: basePath ? `${basePath}/` : "",
+  basePath: "/portfolio",
+  assetPrefix: "/portfolio/",
 };
 
 export default nextConfig;
