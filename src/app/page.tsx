@@ -59,7 +59,7 @@ function StatuePhoto() {
 const heroLines = [
   "ZIAK.DEV",
   "DIGITAL",
-  "MONOLITH",
+  "DESIGN",
   "WEB DESIGN",
   "SOCIAL MEDIA",
   "GRAPHIC SYSTEMS",
@@ -163,7 +163,7 @@ export default function ZiakDevChromaticLandingPage() {
             Premium digital presence for the modern era.
           </h1>
           <p className="max-w-xl text-sm font-medium leading-7 text-white/55 sm:text-base md:text-xl md:leading-8">
-            ziak.dev creates premium websites, visual systems and social media experiences for brands that want to stand out online. The goal is simple: make your brand look memorable, modern and expensive.
+            i createa premium websites, visual systems and social media experiences for brands that want to stand out online. The goal is simple: make your brand look memorable, modern and expensive.
           </p>
         </div>
       </section>
@@ -171,7 +171,7 @@ export default function ZiakDevChromaticLandingPage() {
       <section id="services" className="bg-black px-5 py-18 sm:py-24 md:px-10">
         <div className="mx-auto max-w-[1500px]">
           <div className="mb-10 flex items-end justify-between gap-8">
-            <h2 className="text-[13vw] font-black uppercase leading-[0.82] tracking-[-0.075em] sm:text-[11vw] md:text-[7vw] md:leading-[0.78] md:tracking-[-0.085em]">Služby</h2>
+            <h2 className="text-[13vw] font-black uppercase leading-[0.82] tracking-[-0.075em] sm:text-[11vw] md:text-[7vw] md:leading-[0.78] md:tracking-[-0.085em]">Services</h2>
             <Sparkle className="hidden text-white/45 md:block" />
           </div>
 
