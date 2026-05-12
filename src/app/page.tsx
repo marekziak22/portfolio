@@ -97,7 +97,7 @@ export default function ZiakDevChromaticLandingPage() {
           className="fixed left-4 right-4 top-4 z-50 flex items-center justify-between gap-3 text-[9px] font-black uppercase tracking-[0.12em] text-white sm:left-auto sm:right-6 sm:top-5 sm:justify-end sm:gap-5 sm:text-[10px] md:right-9 md:gap-6 md:tracking-[0.16em]"
         >
           <span className="hidden h-1.5 w-1.5 rounded-full bg-white sm:block" />
-          <a href="#work" className="hover:opacity-60">Realizácie</a>
+          <a href="#work" className="hover:opacity-60">Realisations</a>
           <a href="#services" className="hover:opacity-60">Services</a>
           <a href="#contact" className="hover:opacity-60">Contact</a>
         </motion.nav>
