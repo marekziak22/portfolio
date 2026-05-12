@@ -5,17 +5,7 @@ import Image from "next/image";
 import { motion, useScroll, useTransform } from "framer-motion";
 import { ArrowUpRight, Camera, Globe2, PenTool, Sparkle } from "lucide-react";
 
-const normalizeBasePath = (value: string | undefined) => {
-  if (!value) {
-    return "";
-  }
-
-  const trimmed = value.trim().replace(/^\/+|\/+$/g, "");
-  return trimmed ? `/${trimmed}` : "";
-};
-
-const basePath = normalizeBasePath(process.env.NEXT_PUBLIC_BASE_PATH);
-const statueHeadSrc = `${basePath}/statue-head.png`;
+const statueHeadSrc = "/statue-head.png";
 
 function StatuePhoto() {
   return (
@@ -163,7 +153,7 @@ export default function ZiakDevChromaticLandingPage() {
             Premium digital presence for the modern era.
           </h1>
           <p className="max-w-xl text-sm font-medium leading-7 text-white/55 sm:text-base md:text-xl md:leading-8">
-            i createa premium websites, visual systems and social media experiences for brands that want to stand out online. The goal is simple: make your brand look memorable, modern and expensive.
+            i create premium websites, visual systems and social media experiences for brands that want to stand out online. The goal is simple: make your brand look memorable, modern and expensive.
           </p>
         </div>
       </section>
