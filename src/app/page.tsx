@@ -153,7 +153,7 @@ export default function ZiakDevChromaticLandingPage() {
             Premium digital presence for the modern era.
           </h1>
           <p className="max-w-xl text-sm font-medium leading-7 text-white/55 sm:text-base md:text-xl md:leading-8">
-            i create premium websites, visual systems and social media experiences for brands that want to stand out online. The goal is simple: make your brand look memorable, modern and expensive.
+            I create premium websites, visual systems and social media experiences for brands that want to stand out online. The goal is simple: make your brand look memorable, modern and expensive.
           </p>
         </div>
       </section>
